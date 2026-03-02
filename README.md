@@ -1,70 +1,70 @@
-# 👋 Hi, I'm Febin George! 
-### 📊 Data Analyst & Visualization Expert | Newton School Alumnus
+# 👋 Hi, I'm Febin George | Data Analyst 📊
 
 <p align="left">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <img src="https://img.shields.io/badge/Newton_School-FF4C4C?style=for-the-badge&logo=rocket&logoColor=white" />
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
+
+I am a **Data Analyst** trained at **Newton School**, passionate about transforming raw data into actionable business stories. I specialize in building end-to-end analytical pipelines—from SQL querying and Python cleaning to interactive Power BI storytelling.
 
 ---
 
-### 🛠️ My Data Toolbox
+### 🛠️ My Data Stack
 
-| **Category** | **Tech & Tools** |
+| **Area** | **Tools & Technologies** |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) |
-| **Data Libraries** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) |
-| **Visualization** | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
-| **Tools** | ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-4479A1?style=flat&logo=postgresql&logoColor=white) |
+| **Analysis** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) |
+| **Visuals** | ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=flat&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4479A1?style=flat&logo=python&logoColor=white) |
+| **DBs** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) |
 
 ---
 
-### 📈 Stats & Analytics 
+### 📂 Featured Newton School Projects
+
+#### 📈 [Zomato Business Insights Analysis](https://github.com/YOUR_GITHUB_USERNAME/zomato-analysis)
+* **The Problem:** Understanding customer sentiment and price sensitivity in the food delivery market.
+* **The Work:** Cleaned 50k+ rows of data using **Pandas**, performed EDA, and visualized trends.
+* **The Result:** Identified top-performing cuisines and optimal price points for new restaurant entries.
+
+#### 🎥 [IMDb Movie Data Engineering & SQL](https://github.com/YOUR_GITHUB_USERNAME/imdb-sql)
+* **The Problem:** Finding the "formula" for a box-office hit using historical data.
+* **The Work:** Wrote complex **SQL Joins, CTEs, and Window Functions** to rank directors and actors by ROI.
+* **The Result:** Created a relational schema that reduced query time by 40%.
+
+#### 🏥 [Healthcare Patient Churn Prediction](https://github.com/YOUR_GITHUB_USERNAME/healthcare-analysis)
+* **The Problem:** Predicting which patients are likely to miss appointments.
+* **The Work:** Used **Scikit-Learn** for Logistic Regression and **Seaborn** for correlation heatmaps.
+* **The Result:** Built a dashboard highlighting key risk factors like age and insurance type.
+
+---
+
+### 📊 GitHub Activity & Stats
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=dracula&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=dracula" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=dracula" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 📂 Newton School Capstone Projects
-
-#### 🍱 [Zomato Data Analysis & Dashboarding](https://github.com/YOUR-GITHUB-USERNAME)
-- **Objective:** Explored restaurant ratings, cost, and location trends.
-- **Tech:** `Python`, `Pandas`, `Matplotlib`, `Tableau`.
-- **Key Insight:** Identified specific cuisines with high ratings but low density, suggesting market entry points.
-
-#### 🎥 [IMDb Movie Insights Engine](https://github.com/YOUR-GITHUB-USERNAME)
-- **Objective:** Analyzing success factors for movies over the last decade.
-- **Tech:** `SQL (MySQL)`, `Exploratory Data Analysis (EDA)`.
-- **Key Insight:** Correlated director influence with high-budget ROI vs. Indie success.
-
-#### 🏦 [Bank Customer Churn Prediction](https://github.com/YOUR-GITHUB-USERNAME)
-- **Objective:** Predicting customer attrition to improve retention strategies.
-- **Tech:** `Logistic Regression`, `Seaborn`, `Scikit-learn`.
-- **Key Insight:** Discovered that age and account balance were the highest predictors of churn.
+### 🎯 Professional Certifications
+* 📜 **Full Stack Data Analytics** - Newton School
+* 📜 **SQL for Data Science Specialization**
+* 📜 **Advanced Python for Data Analysis**
 
 ---
 
-### 🏆 Certifications
-- ✅ **Professional Data Analytics** - Newton School
-- ✅ **SQL for Data Science**
-- ✅ **Python Automation & Visualization**
+### 🤝 Let's Connect!
+* 💼 [LinkedIn Profile](https://www.linkedin.com/in/febin-george1/)
+* 🚀 [Newton School Portfolio](https://my.newtonschool.co/user/febingeorge)
+* 📧 [Email Me](mailto:your-email@example.com)
 
----
-
-### 🤝 Connect with Febin
-<p align="left">
-<a href="https://www.linkedin.com/in/febin-george1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="febin-george" height="30" width="40" /></a>
-<a href="https://my.newtonschool.co/user/febingeorge" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/000000/external-newton-a-unit-of-force-in-the-international-system-of-units-clothing-bold-tal-revivo.png" alt="Newton School" height="30" width="40" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20Views&color=blue&style=flat" />
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=flat-square" />
 </p>
